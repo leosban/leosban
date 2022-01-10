@@ -9,12 +9,10 @@ Estudante de Desenvolvimento Web em Maceió-AL
 
 💻 Habilidades: </br>
 
-📚 Linguagens:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='25' weight='25'/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='25' weight='25'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height='25' weight='25'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height='25' weight='25'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height='25' weight='25'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height='25' weight='25' /></br>
- 
- 
+📚 Linguagens:</br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='25' weight='25'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='25' weight='25'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height='25' weight='25'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height='25' weight='25'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height='25' weight='25'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height='25' weight='25' /></br>
+ </br>
+ </br> 
 📚 Databases:   SQL Server, MySQL / MariaDB, MongoDB;</br>
 📚 Ferramentas: Visual Studio Code</br></br># README.md
 # leosban
