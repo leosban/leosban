@@ -6,7 +6,7 @@ Estudante de Desenvolvimento Web em Maceió-AL
 
 **Seja bem-vindo(a)**
 
-**💻📚 Estou aprendendo</br>**
+**📚 Estou aprendendo</br>**
 </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40' weight='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='40' weight='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height='40' weight='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height='40' weight='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height='40' weight='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height='40' weight='40' /></br>
  </br>
