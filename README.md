@@ -11,6 +11,11 @@ Estudante de Desenvolvimento Web em Maceió-AL
 
 📚 Linguagens:  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='20' weight='20'/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='20' weight='20'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height='20' weight='20'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height='20' weight='20'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height='20' weight='20'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height='20' weight='20 />
+
+
+
+
 ;</br>
 📚 Databases:   SQL Server, MySQL / MariaDB, MongoDB;</br>
 📚 Ferramentas: Visual Studio Code</br></br># README.md
