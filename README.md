@@ -9,7 +9,7 @@ Estudante de Desenvolvimento Web em Maceió-AL
 
 💻 Habilidades: </br>
 
-📚 Linguagens:  Javascript + ECMAScript, Typescritp, HTML, CSS;</br>
+📚 Linguagens:  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> ;</br>
 📚 Databases:   SQL Server, MySQL / MariaDB, MongoDB;</br>
 📚 Ferramentas: Visual Studio Code</br></br># README.md
 # leosban
