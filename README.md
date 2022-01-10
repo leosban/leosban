@@ -9,7 +9,7 @@ Estudante de Desenvolvimento Web em Maceió-AL
 
 💻 Habilidades: </br>
 
-📚 Linguagens:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height: "30px" weight: "30px"/>
+📚 Linguagens:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='30' weight='30'/>
 ;</br>
 📚 Databases:   SQL Server, MySQL / MariaDB, MongoDB;</br>
 📚 Ferramentas: Visual Studio Code</br></br># README.md
