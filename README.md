@@ -6,13 +6,13 @@ Estudante de Desenvolvimento Web em Maceió-AL
 
 **Seja bem-vindo(a)**
 
-💻📚 Habilidades que estou aprendendo:</br>
+**💻📚 Habilidades que estou aprendendo:</br>**
 </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40' weight='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='40' weight='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height='40' weight='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height='40' weight='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height='40' weight='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height='40' weight='40' /></br>
  </br>
-📚 Databases:</br>
+**📚 Databases:</br>**
 </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height='60' weight='60' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height='60' weight='60' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height='60' weight='60' />
 </br>
 </br>
-📚 Ferramentas: Visual Studio Code</br></br># README.md
+**📚 Ferramentas: Visual Studio Code</br></br># README.md**
